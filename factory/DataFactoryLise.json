@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryLise",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "885fad0e-4ac5-4424-9558-f36b813b59c5",
+		"tenantId": "543d28e5-9b2b-4976-a32b-ca91c20d4331"
+	}
+}
